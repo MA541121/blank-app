@@ -5,4 +5,5 @@ st.title("🎈 My new app")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
-2006_2022_IGRESOTr.csv
+git clone https://github.com/usuario/repositorio.git
+
